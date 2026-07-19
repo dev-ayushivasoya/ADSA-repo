@@ -23,5 +23,6 @@ MergeSort(arr)
 
 TIME COMPLEXITY:
 The time complexity in worst and the best case remains the same i.e O(n log n)
+
 SPACE COMPLEXITY:
 The space complexity is O(n)
